@@ -1,10 +1,10 @@
+#!/usr/bin/python3.6
+
 # Austin Wong-Parker
 # 12 - 27 - 2019
 # CLA Major Discord Bot
 
 # Starting information from https://realpython.com/how-to-make-a-discord-bot-python/#interacting-with-discord-apis
-
-#! python3.6
 
 import os
 import discord
